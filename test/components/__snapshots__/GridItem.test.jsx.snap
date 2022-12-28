@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridItem Tests should match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Gumball"
+      src="https://pictures.com/gumball/gumball_playing.jpg"
+    />
+    <p
+      data-test-id="title"
+    >
+      Gumball
+    </p>
+  </div>
+</div>
+`;
